@@ -1,0 +1,1 @@
+bool LoadTextureTGA(char *,unsigned int *);

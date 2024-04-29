@@ -1,0 +1,8 @@
+#define SND_SHOTGUN 0
+#define SND_GRENADE_SHOT 1
+#define SND_ROCKET_SHOT 2
+#define SND_GRENADE_EXPLOSION 3
+#define SND_JETPACK 4
+#define SND_MINIGUN 5
+
+#define NUM_SOUNDS 6
